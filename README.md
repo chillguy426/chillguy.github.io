@@ -1,1 +1,1 @@
-This is my site
+Credit to BlazerGames for the template.
